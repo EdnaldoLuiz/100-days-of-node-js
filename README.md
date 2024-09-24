@@ -24,7 +24,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | Dia | Desafio | Recursos | Status |
 |-----|---------|----------|--------|
 | 1   | Hello World com NodeJS no Navegador | http | ✅ |
-| 2   | Utilizando Objetos Globais | __dirname, __filename, process | 🔒 |
+| 2   | Utilizando Objetos Globais | __dirname, __filename, process | ✅ |
 | 3   | Console para Depuração | console.log(), console.error(), console.warn() | 🔒 |
 | 4   | Servidor HTTP Simples | Módulo http | 🔒 |
 | 5   | Timers no Node.js | setTimeout(), setInterval(), clearTimeout(), clearInterval() | 🔒 |
