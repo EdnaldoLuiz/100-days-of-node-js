@@ -30,7 +30,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 5   | Timers no Node.js | setTimeout(), setInterval(), clearTimeout(), clearInterval() | ✅ |
 | 6   | Módulo de Sistema de Arquivos Básico | Módulo fs | ✅ |
 | 7   | Roteamento em Servidor HTTP | Módulo http | ✅ |
-| 8   | Conceitos Básicos do Express | Express.js | 🔒 |
+| 8   | Conceitos Básicos do Express | Express.js | ✅ |
 | 9   | Middleware no Express | Express.js | 🔒 |
 | 10  | Manipulação de Requisições POST | Express.js, body-parser, Axios | 🔒 |
 | 11  | Servindo Arquivos Estáticos com Express | Express.js | 🔒 |
