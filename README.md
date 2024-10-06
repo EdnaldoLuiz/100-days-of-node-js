@@ -36,7 +36,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 11  | Servindo Arquivos Estáticos com Express | Express.js | ✅ |
 | 12  | Parâmetros de Consulta (Query Parameters) | Express.js | ✅ |
 | 13  | Design de API RESTful | Express.js | ✅ |
-| 14  | JSON Web Tokens (JWT) | jsonwebtoken | 🔒 |
+| 14  | JSON Web Tokens (JWT) | jsonwebtoken | ✅ |
 | 15  | Operações CRUD com MongoDB | MongoDB, Mongoose | 🔒 |
 | 16  | Middleware de Tratamento de Erros no Express | Express.js | 🔒 |
 | 17  | Manipulação de Streams | Streams | 🔒 |
