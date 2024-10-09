@@ -1,0 +1,1 @@
+Este é um arquivo de entrada para demonstrar a manipulação de streams no Node.js.
