@@ -40,7 +40,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 15  | Operações CRUD com MongoDB | MongoDB, Mongoose | ✅ |
 | 16  | Middleware de Tratamento de Erros no Express | Express.js | ✅ |
 | 17  | Manipulação de Streams | Streams | ✅ |
-| 18  | Criação de Servidor TCP | net | 🔒 |
+| 18  | Criação de Servidor TCP | net | ✅ |
 | 19  | Upload de Arquivos | Express.js, multer | 🔒 |
 | 20  | Variáveis de Ambiente | dotenv | 🔒 |
 | 21  | Promises no Node.js | Promises | 🔒 |
