@@ -43,7 +43,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 18  | Criação de Servidor TCP | net | ✅ |
 | 19  | Upload de Arquivos | Express.js, multer | ✅ |
 | 20  | Variáveis de Ambiente | dotenv | ✅ |
-| 21  | Promises no Node.js | Promises | 🔒 |
+| 21  | Promises no Node.js | Promises | ✅|
 | 22  | Async/Await no Node.js | Async/Await | 🔒 |
 | 23  | Servidor WebSocket Básico | ws | 🔒 |
 | 24  | Tarefas CRON no Node.js | node-cron | 🔒 |
