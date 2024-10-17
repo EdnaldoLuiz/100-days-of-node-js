@@ -47,7 +47,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 22  | Async/Await no Node.js | Async/Await | ✅ |
 | 23  | Servidor WebSocket Básico | ws | ✅ |
 | 24  | Tarefas CRON no Node.js | node-cron | ✅ |
-| 25  | Testes com Mocha e Chai | Mocha, Chai | 🔒 |
+| 25  | Testes com Mocha e Chai | Mocha, Chai | ✅ |
 | 26  | Depuração no Node.js | Node.js Inspector | 🔒 |
 | 27  | Roteador do Express | Express.js | 🔒 |
 | 28  | Middleware de Autorização com JWT | Express.js, jsonwebtoken | 🔒 |
