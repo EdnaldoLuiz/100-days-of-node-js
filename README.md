@@ -53,7 +53,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 28  | Middleware de Autorização com JWT | Express.js, jsonwebtoken | ✅ |
 | 29  | Documentação de API REST | Swagger | ✅ |
 | 30  | Servidor GraphQL Básico | Apollo Server, GraphQL | ✅ |
-| 31  | Lidando com CORS | cors | 🔒 |
+| 31  | Lidando com CORS | cors | ✅ |
 | 32  | Enviando Emails com Nodemailer | Nodemailer | 🔒 |
 | 33  | Middleware de Validação no Express | express-validator | 🔒 |
 | 34  | Autenticação de Usuário com Passport | Passport.js | 🔒 |
