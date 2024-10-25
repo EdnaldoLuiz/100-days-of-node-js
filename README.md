@@ -55,7 +55,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 30  | Servidor GraphQL Básico | Apollo Server, GraphQL | ✅ |
 | 31  | Lidando com CORS | cors | ✅ |
 | 32  | Enviando Emails com Nodemailer | Nodemailer | ✅ |
-| 33  | Middleware de Validação no Express | express-validator | 🔒 |
+| 33  | Middleware de Validação no Express | express-validator | ✅ |
 | 34  | Autenticação de Usuário com Passport | Passport.js | 🔒 |
 | 35  | Comunicação em Tempo Real com Socket.IO | Socket.IO | 🔒 |
 | 36  | Limitação de Taxa no Express | express-rate-limit | 🔒 |
