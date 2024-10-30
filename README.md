@@ -60,7 +60,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 35  | Comunicação em Tempo Real com Socket.IO | Socket.IO | ✅ |
 | 36  | Limitação de Taxa no Express | express-rate-limit | ✅ |
 | 37  | Servidor HTTP com Cache Simples e Arquivos Estáticos | http | ✅ |
-| 38  | Streaming de Arquivos | Módulo fs | 🔒 |
+| 38  | Streaming de Arquivos | Módulo fs | ✅ |
 | 39  | Paginação em API | Express.js | 🔒 |
 | 40  | Geração de dados Mockados | faker | 🔒 |
 | 41  | Compilação JIT | vm2 | 🔒 |
