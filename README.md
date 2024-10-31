@@ -61,7 +61,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 36  | Limitação de Taxa no Express | express-rate-limit | ✅ |
 | 37  | Servidor HTTP com Cache Simples e Arquivos Estáticos | http | ✅ |
 | 38  | Streaming de Arquivos | Módulo fs | ✅ |
-| 39  | Paginação em API | Express.js | 🔒 |
+| 39  | Paginação em API | Express.js | ✅ |
 | 40  | Geração de dados Mockados | faker | 🔒 |
 | 41  | Compilação JIT | vm2 | 🔒 |
 | 42  | Tratamento Global de Erros no Express | Express.js | 🔒 |
