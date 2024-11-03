@@ -64,7 +64,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 39  | Paginação em API | Express.js | ✅ |
 | 40  | Geração de dados Mockados | faker | ✅ |
 | 41  | Compilação JIT | vm2 | ✅ |
-| 42  | Tratamento Global de Erros no Express | Express.js | 🔒 |
+| 42  | Tratamento Global de Erros no Express | Express.js | ✅ |
 | 43  | Sistema de Gerenciamento de Tarefas com OO | - | 🔒 |
 | 44  | Cache no Node.js | node-cache | 🔒 |
 | 45  | Web Scraping com Cheerio | Cheerio | 🔒 |
