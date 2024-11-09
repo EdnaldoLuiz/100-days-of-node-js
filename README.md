@@ -70,7 +70,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 45  | Web Scraping com Cheerio | Cheerio | ✅ |
 | 46  | Subscrições GraphQL | Apollo Server, GraphQL | ✅ |
 | 47  | WebSockets com Redis | Socket.IO, Redis | ✅ |
-| 48  | Testes de Integração com Supertest | Supertest | 🔒 |
+| 48  | Testes de Integração com Supertest | Supertest | ✅ |
 | 49  | Utilizando Prisma para ORM | Prisma | 🔒 |
 | 50  | Migrações de Banco de Dados | Sequelize | 🔒 |
 | 51  | Webhooks no Node.js | Express.js | 🔒 |
