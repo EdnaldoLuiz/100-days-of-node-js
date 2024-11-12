@@ -73,7 +73,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 48  | Testes de Integração com Supertest | Supertest | ✅ |
 | 49  | Utilizando Prisma para ORM | Prisma | ✅ |
 | 50  | Migrações de Banco de Dados | Sequelize | ✅ |
-| 51  | Webhooks no Node.js | Express.js | 🔒 |
+| 51  | Webhooks no Node.js | Express.js | ✅ |
 | 52  | Registro de Erros com Winston | Winston | 🔒 |
 | 53  | Dockerizando Aplicações Node.js | Docker | 🔒 |
 | 54  | Manipulação de Arrays com Métodos Nativos | - | 🔒 |
