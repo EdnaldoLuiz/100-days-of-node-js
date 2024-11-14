@@ -1,0 +1,16 @@
+{
+  "name": "day053",
+  "version": "1.0.0",
+  "description": "Projeto simples para testar Docker com Node.js",
+  "main": "day053.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node day053.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "day053": "file:"
+  }
+}
