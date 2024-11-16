@@ -77,7 +77,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 52  | Registro de Erros com Winston | Winston | ✅ |
 | 53  | Dockerizando Aplicações Node.js | Docker | ✅ |
 | 54  | Manipulação de Arrays com Métodos Nativos | - | ✅ |
-| 55  | GraphQL com Prisma | Prisma, GraphQL | 🔒 |
+| 55  | GraphQL com Prisma | Prisma, GraphQL | ✅ |
 | 56  | Funções Serverless | AWS Lambda | 🔒 |
 | 57  | Limitação de Taxa com Redis | Redis | 🔒 |
 | 58  | Teste de Carga de WebSocket | Artillery | 🔒 |
