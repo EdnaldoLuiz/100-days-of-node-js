@@ -79,7 +79,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 54  | Manipulação de Arrays com Métodos Nativos | - | ✅ |
 | 55  | Implementação de uma Fila (Queue) | - | ✅ |
 | 56  | Implementação de uma Pilha (Stack)| - | ✅ |
-| 57  | Limitação de Taxa com Redis | Redis | 🔒 |
+| 57  | Limitação de Taxa com Redis | Redis | ✅ |
 | 58  | Teste de Carga de WebSocket | Artillery | 🔒 |
 | 59  | Manipulação Avançada de Buffers | Buffer | 🔒 |
 | 60  | Criação de Addons Nativos com Node.js | N-API | 🔒 |
