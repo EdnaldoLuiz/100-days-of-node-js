@@ -1,0 +1,16 @@
+config:
+  target: "ws://localhost:3000"
+  phases:
+    - duration: 10
+      arrivalRate: 5
+  engines:
+    ws:
+      pingTimeout: 3000
+
+scenarios:
+  - engine: "ws"
+    flow:
+      - send: "Teste de Carga"
+      - think: 1
+      - send: "Segunda Mensagem"
+      - think: 1
