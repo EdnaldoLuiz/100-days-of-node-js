@@ -81,7 +81,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 56  | Implementação de uma Pilha (Stack)| - | ✅ |
 | 57  | Limitação de Taxa com Redis | Redis | ✅ |
 | 58  | Teste de Carga de WebSocket | Artillery | ✅ |
-| 59  | Manipulação Avançada de Buffers | Buffer | 🔒 |
+| 59  | Manipulação Avançada de Buffers | Buffer | ✅ |
 | 60  | Criação de Addons Nativos com Node.js | N-API | 🔒 |
 | 61  | Implementação de Worker Threads | workder_threads | 🔒 |
 | 62  | Emissores de Eventos no Node.js | EventEmitter | 🔒 |
