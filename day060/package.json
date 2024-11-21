@@ -1,0 +1,14 @@
+{
+    "name": "day060",
+    "version": "1.0.0",
+    "description": "Desafio de criação de addons nativos com Node.js",
+    "main": "day060.js",
+    "scripts": {
+        "start": "node day060.js",
+        "build": "node-gyp configure build"
+    },
+    "dependencies": {
+        "day060": "file:",
+        "node-gyp": "^8.4.0"
+    }
+}
