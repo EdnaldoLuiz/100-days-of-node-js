@@ -84,7 +84,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 59  | Manipulação Avançada de Buffers | Buffer | ✅ |
 | 60  | Criação de Addons Nativos com Node.js | N-API | ✅ |
 | 61  | Implementação de Worker Threads | workder_threads | ✅ |
-| 62  | Emissores de Eventos no Node.js | EventEmitter | 🔒 |
+| 62  | Emissores de Eventos no Node.js | EventEmitter | ✅ |
 | 63  | Lista Negra de JWT | jsonwebtoken | 🔒 |
 | 64  | Middleware GraphQL | Apollo Server, GraphQL | 🔒 |
 | 65  | Mocking de Respostas de API | nock | 🔒 |
