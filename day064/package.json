@@ -1,0 +1,17 @@
+{
+    "name": "day064",
+    "version": "1.0.0",
+    "description": "Desafio de middleware GraphQL com Apollo Server no Node.js",
+    "main": "day064.js",
+    "scripts": {
+        "start": "node day064.js"
+    },
+    "dependencies": {
+        "apollo-server-express": "^3.13.0",
+        "body-parser": "^1.19.0",
+        "day064": "file:",
+        "express": "^4.17.1",
+        "graphql": "^15.5.0",
+        "jsonwebtoken": "9.0.2"
+    }
+}
