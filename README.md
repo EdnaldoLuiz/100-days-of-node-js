@@ -86,7 +86,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 61  | Implementação de Worker Threads | workder_threads | ✅ |
 | 62  | Emissores de Eventos no Node.js | EventEmitter | ✅ |
 | 63  | Lista Negra de JWT | jsonwebtoken | ✅ |
-| 64  | Middleware GraphQL | Apollo Server, GraphQL | 🔒 |
+| 64  | Middleware GraphQL | Apollo Server, GraphQL | ✅ |
 | 65  | Mocking de Respostas de API | nock | 🔒 |
 | 66  | Melhores Práticas com JWT | jsonwebtoken | 🔒 |
 | 67  | Validação de Dados com JOI | JOI | 🔒 |
