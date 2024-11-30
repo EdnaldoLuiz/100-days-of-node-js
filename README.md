@@ -91,7 +91,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 66  | Melhores Práticas com JWT | jsonwebtoken | ✅ |
 | 67  | Validação de Dados com JOI | JOI | ✅ |
 | 68  | Usando WebSockets com Express | Socket.IO | ✅ |
-| 69  | Construindo uma Ferramenta CLI com Node.js | Commander.js | 🔒 |
+| 69  | Construindo uma Ferramenta CLI com Node.js | Commander.js | ✅ |
 | 70  | Renderização no Lado do Servidor (SSR) com Express | Express.js | 🔒 |
 | 71  | Manipulação de Arquivos CSV | csv-parser | 🔒 |
 | 72  | Criação de PDFs | pdfkit | 🔒 |
