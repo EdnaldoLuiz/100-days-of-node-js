@@ -15,9 +15,7 @@ Construindo uma Ferramenta CLI com Node.js
 - `program.action()`: Define a ação a ser executada quando o comando é chamado.
 - `program.parse()`: Analisa os argumentos da linha de comando.
 
-## Arquivos
-
-### `day069.js`
+## Resultado
 
 ```js
 const { Command } = require('commander');
