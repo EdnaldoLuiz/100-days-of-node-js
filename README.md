@@ -96,7 +96,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 71  | Manipulação de Arquivos CSV | csv-parser | ✅ |
 | 72  | Criação de PDFs | pdfkit | ✅ |
 | 73  | Envio de Notificações por SMS | Twilio | ✅ |
-| 74  | Microsserviços com Node.js | Seneca.js | 🔒 |
+| 74  | Microsserviços com Node.js | Seneca.js | ✅ |
 | 75  | Node.js e gRPC | gRPC | 🔒 |
 | 76  | Análise em Tempo Real | Socket.IO | 🔒 |
 | 77  | Revogação de JWT | jsonwebtoken | 🔒 |
