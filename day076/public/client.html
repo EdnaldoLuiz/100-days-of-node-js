@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Real-Time Data</title>
+  <script src="/socket.io/socket.io.js"></script>
+</head>
+<body>
+  <h1>Dados em Tempo Real</h1>
+  <div id="data"></div>
+
+  <script>
+    const socket = io();
+
+    socket.on('real-time-data', (data) => {
+      const dataDiv = document.getElementById('data');
+      dataDiv.innerHTML = `Timestamp: ${data.timestamp} - Value: ${data.value.toFixed(2)}`;
+    });
+  </script>
+</body>
+</html>
