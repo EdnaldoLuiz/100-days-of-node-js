@@ -101,7 +101,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 76  | Análise em Tempo Real | Socket.IO | ✅ |
 | 77  | Revogação de JWT | jsonwebtoken | ✅ |
 | 78  | Event Sourcing no Node.js | EventEmitter, EventStoreDB | ✅ |
-| 79  | Fila simplis com RabbitMQ | RabbitMQ, amqplib | 🔒 |
+| 79  | Fila simplis com RabbitMQ | RabbitMQ, amqplib | ✅ |
 | 80  | Streams e Buffer no Node.js | Streams, Buffer | 🔒 |
 | 81  | Configuração de Middleware Personalizado no Express | Express.js | 🔒 |
 | 82  | Clustering para Escalabilidade | Cluster Module | 🔒 |
