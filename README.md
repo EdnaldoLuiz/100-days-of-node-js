@@ -104,7 +104,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 79  | Fila simplis com RabbitMQ | RabbitMQ, amqplib | ✅ |
 | 80  | Streams e Buffer no Node.js | Streams, Buffer | ✅ |
 | 81  | Configuração de Middleware Personalizado no Express | Express.js | ✅ |
-| 82  | Clustering para Escalabilidade | Cluster Module | 🔒 |
+| 82  | Clustering para Escalabilidade | Cluster Module | ✅ |
 | 83  | Integração de API de Terceiros | Axios, Fetch | 🔒 |
 | 84  | Criação de APIs de Upload de Imagens | Multer, Sharp | 🔒 |
 | 85  | Manipulação de Dados com Lodash | Lodash | 🔒 |
