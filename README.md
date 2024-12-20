@@ -111,7 +111,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 86  | Extraindo textos de PDF | pdf-parser | ✅ |
 | 87  | Testes com Jest no Node.js | Jest | ✅ |
 | 88  | Lendo textos de Imagens | tesseract | ✅ |
-| 89  | WebRTC com Node.js | WebRTC, Socket.IO | 🔒 |
+| 89  | WebRTC com Node.js | WebRTC, Socket.IO | ✅ |
 | 90  | Integração de Banco de Dados SQL com Knex | Knex.js | 🔒 |
 | 91  | Cache Distribuído com Redis | Redis, ioredis | 🔒 |
 | 92  | Implementação de Política de Retentativa | Retry.js | 🔒 |
