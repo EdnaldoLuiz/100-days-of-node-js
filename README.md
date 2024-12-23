@@ -114,7 +114,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 89  | WebRTC com Node.js | WebRTC, Socket.IO | ✅ |
 | 90  | Integração de Banco de Dados SQL com Knex | Knex.js | ✅ |
 | 91  | Cache Distribuído com Redis | Redis, ioredis | ✅ |
-| 92  | Implementação de Política de Retentativa | Retry.js | 🔒 |
+| 92  | Implementação de Política de Retentativa | Retry.js | ✅ |
 | 93  | Criação de Plugins no Express | Express.js | 🔒 |
 | 94  | Modularização Avançada | CommonJS, ES Modules | 🔒 |
 | 95  | Streaming de Vídeo com Node.js | Módulo fs, Express.js | 🔒 |
