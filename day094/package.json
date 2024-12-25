@@ -1,0 +1,16 @@
+{
+  "name": "day094",
+  "version": "1.0.0",
+  "description": "Este é o README para esta pasta.",
+  "main": "day094.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "day094": "file:"
+  }
+}
