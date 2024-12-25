@@ -116,7 +116,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 91  | Cache Distribuído com Redis | Redis, ioredis | ✅ |
 | 92  | Implementação de Política de Retentativa | Retry.js | ✅ |
 | 93  | Criação de Plugins no Express | Express.js | ✅ |
-| 94  | Modularização Avançada | CommonJS, ES Modules | 🔒 |
+| 94  | Modularização Avançada | CommonJS, ES Modules | ✅ |
 | 95  | Streaming de Vídeo com Node.js | Módulo fs, Express.js | 🔒 |
 | 96  | Monitoramento de Performance | pm2, New Relic | 🔒 |
 | 97  | Automação com Puppeteer | Puppeteer | 🔒 |
