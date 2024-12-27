@@ -118,7 +118,7 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 93  | Criação de Plugins no Express | Express.js | ✅ |
 | 94  | Modularização Avançada | CommonJS, ES Modules | ✅ |
 | 95  | Streaming de Vídeo com Node.js | Módulo fs, Express.js | ✅ |
-| 96  | Monitoramento de Performance | pm2, New Relic | 🔒 |
+| 96  | Monitoramento de Performance | pm2, New Relic | ✅ |
 | 97  | Automação com Puppeteer | Puppeteer | 🔒 |
 | 98  | Integração de Serviços com Webhooks | Express.js | 🔒 |
 | 99  | Gerenciamento de Configurações | config, dotenv | 🔒 |
