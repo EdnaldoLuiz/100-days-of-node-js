@@ -122,4 +122,4 @@ Javascript é uma das linguagens que mais crescem, tendo seu uso amplo nas mais 
 | 97  | Automação com Puppeteer | Puppeteer | ✅ |
 | 98  | Integração de Serviços com Webhooks | Express.js | ✅ |
 | 99  | Gerenciamento de Configurações | config, dotenv | ✅ |
-| 100 | Deploy de Aplicação Node.js | Heroku, AWS, Vercel | 🔒 |
+| 100 | Deploy de Aplicação Node.js | Heroku, AWS, Vercel | ✅ |
