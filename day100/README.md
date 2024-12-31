@@ -2,6 +2,10 @@
 
 Deploy de Aplicação Node.js
 
+## URL
+
+<a href="https://day100-ntk0ni0s5-ednaldoluizs-projects.vercel.app/">Link da Aplicação na Vercel</a>
+
 ## Explicação
 
 Utilizamos o Express.js para criar um servidor que serve uma página HTML com CSS. O a hospedagem escolhida foi a Vercel.
@@ -28,9 +32,11 @@ const PORT = process.env.PORT || 3000;
 
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, 'public', 'index.html'));
-});
+app.use(express.static(path.join(__dirname, 'public'), {
+    setHeaders: (res) => {
+        res.removeHeader('Accept-Ranges');
+    }
+}));
 
 app.listen(PORT, () => {
   console.log(`Servidor rodando na porta ${PORT}`);
