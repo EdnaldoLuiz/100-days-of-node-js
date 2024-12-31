@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/day100.js"
+        }
+    ],
+    "builds": [
+        {
+            "src": "day100.js",
+            "use": "@vercel/node"
+        }
+    ]
+}
